@@ -1,0 +1,31 @@
+Fly:
+  Player:
+    Enabled: "§aYou are now flying!"
+    Disabled: "§cYou are no longer flying."
+  Other:
+    Enable-Successful: "§aYou have enabled fly for %target%!"
+    Disabled-Successful: "§cYou have disabled fly for %target%."
+    Enabled: "§aYour flight has been enabled by an Admin."
+    Disabled: "§cYour flight has been disabled by an Admin."
+
+Gamemode:
+  Sender:
+    Successfully-Changed: "&eYour gamemode has changed to &6%mode%"
+  Other:
+    Successfully-Changed-Other: "&eYou have set &6%target%&e's game mode to &6%mode%"
+
+SetRank:
+  Sender:
+    Rank-Successfully-Set: "&eYou have set &6%target%&e's rank to &6%rank%"
+  Other:
+    Rank-Successfully-Set: "&eYour rank is now %rank%"
+
+GodMode:
+  Sender:
+    Enable: "&aYou are now in god mode."
+    Disable: "&cYou are no longer in god mode."
+  Other:
+    Sender-Message-Enabled: "&eYou have successfully set &6%target% &ein god mode."
+    Sender-Message-Disabled: "&6%target% &eis now no longer in god mode."
+    God-Mode-Enabled: "&aYou are now in god mode."
+    God-Mode-Disabled: "&cYou are no longer in god mode."

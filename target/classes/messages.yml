@@ -1,0 +1,19 @@
+# MESSAGES
+Teleport:
+  Teleported-To: "&eYou have successfully teleported to &6%target%"
+
+Message:
+  To-Format: "&e(To %player%) %message%"
+  From-Format: "&e(From %player%) %message%"
+
+Vanish:
+  Successfully-Vanished: "&aYou have successfully vanished. You are now invisible to non-staff players!"
+  Staff-Broadcast: "&9[Staff] &3%player% &bvanished"
+
+Unvanish:
+  Successfully-Unvanished: "&aYou have successfully unvanished. You are now visible to all players!"
+  Staff-Broadcast: "&9[Staff] &3%player% &bunvanished"
+
+GameMode:
+  Mode-Changed: "&eYour game mode has changed to &6%mode%"
+  Other-Mode-Changed: "&eYou have changed &6%player%&e's game mode to &6%mode%"

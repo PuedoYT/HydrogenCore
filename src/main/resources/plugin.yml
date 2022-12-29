@@ -1,0 +1,4 @@
+name: Hydrogen
+version: '${project.version}'
+main: net.harmoniamc.hydrogen.Hydrogen
+authors: [ EmpireMTR, Puedo ]

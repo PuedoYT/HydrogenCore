@@ -1,0 +1,4 @@
+name: Hydrogen
+version: '1.0-SNAPSHOT'
+main: net.zpvp.main.Hydrogen
+authors: [ EmpireMTR ]
